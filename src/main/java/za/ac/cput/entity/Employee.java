@@ -1,3 +1,10 @@
+/*
+Employee.java
+Entity for the Employee
+Author: 217091229
+Date: 24 May 2021
+ */
+
 package za.ac.cput.entity;
 
 import java.util.Locale;
